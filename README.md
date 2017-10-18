@@ -1,2 +1,2 @@
-# o-frame
-My collection of A-Frame components.
+# oframe
+A collection of A-Frame components. 🌞
