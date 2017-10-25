@@ -1,0 +1,36 @@
+{
+  "name": "oframe",
+  "version": "0.1.0",
+  "description": "A collection of A-Frame components.",
+  "engines": {
+    "node": "^6.11.0",
+    "npm": "^5.5.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --fix .",
+    "precommit": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oparamo/oframe.git"
+  },
+  "keywords": [
+    "a-frame",
+    "aframe",
+    "virtual reality",
+    "vr",
+    "web vr",
+    "webvr"
+  ],
+  "author": "Oscar Paramo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oparamo/oframe/issues"
+  },
+  "homepage": "https://github.com/oparamo/oframe#readme",
+  "devDependencies": {
+    "eslint": "4.4.0",
+    "husky": "0.14.3"
+  }
+}
